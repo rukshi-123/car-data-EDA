@@ -1,4 +1,4 @@
-euriudnieurcijenckjdnc
+uriudnieurcijenckjdnc
 # car-data-EDA
 # 🚗 Car Price Prediction Project
 
