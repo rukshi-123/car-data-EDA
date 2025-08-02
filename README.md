@@ -1,4 +1,4 @@
-rfbciybcyefu## car-data-EDA
+fbciybcyefu## car-data-EDA
 # 🚗 Car Price Prediction Project
 
 Welcome to the **Car Price Prediction** project! This repository demonstrates the use of machine learning models to predict the selling price of used cars using Python’s data science ecosystem.
